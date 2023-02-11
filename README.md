@@ -1,4 +1,2 @@
 # drea-resume
-我的简历
-
-http://drea.cc/h5/resume/me
+[简历示例](http://drea.cc/h5/resume/me)
